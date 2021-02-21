@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" herf="css/style.css">
+    <title><Exercice-objet</title>
+    <script src="index2.js"></script>
+</head>
+<body>
+    <script>
+        const fruit =  { 
+        lenom: ['avocado'],
+        laquantité: ['15kg'],
+        leprix: ['1.69$'],
+        }
+      console.log(fruit.laquantité);
+      var product = 15 * 1.69;
+      console.log(product);
+
+
+
+    </script>
